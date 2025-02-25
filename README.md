@@ -40,6 +40,9 @@ We compared the results of 6 different classification algorithms and applied 2 u
 
 ### Result
 
+
+### Reccommendation
+
 ## Tableau Dashboard
 
 
