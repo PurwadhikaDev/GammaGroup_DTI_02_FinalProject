@@ -164,5 +164,5 @@ Link: https://gammateamdti.streamlit.app/
 ## File Directory
 - [Project notebook](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/Final_Project_Gamma_Team_Hotel_Booking_Demand_2_0.ipynb) : consisting code , explanation and visualization detail about this project
 - [Model file](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/model.pkl)
-- [Data after cleaning] (https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/hotel_booking_cleaned.csv)
+- [Data after cleaning](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/hotel_booking_cleaned.csv)
 - [Streamlit Code](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/Homepage.py) and (https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/tree/main/pages). To run streamlit from your computer you need to check file directory of the model. then run Homepage.py from terminal
