@@ -6,9 +6,8 @@ Contributors:
 - Sekar Saraswati Wibowo
 
 ## Outline
-- [Hotel Booking Cancellation Prediction](#Project-Overview)
-  
-    Access the detailed project explanation in the [Jupyter Notebook file](#https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/Final_Project_Gamma_Team_Hotel_Booking_Demand_2_0.ipynb)
+- [Hotel Booking Cancellation Prediction](#Project-Overview) <br>
+  Access the detailed project explanation in the [Jupyter Notebook file](#https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/Final_Project_Gamma_Team_Hotel_Booking_Demand_2_0.ipynb)
 - [Tableau Dashboard](#Tableau-Dashboard)
 - [Streamlit Application](#Streamlit-Application)
 
