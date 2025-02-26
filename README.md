@@ -128,6 +128,7 @@ We compared the results of 6 different classification algorithms and applied 2 u
 ### Recommendation
 
 ## Tableau Dashboard
+Link : https://public.tableau.com/app/profile/gamma.team/viz/HotelBooking_17403871991650/HotelBooking
 
 
 ## Streamlit Application
