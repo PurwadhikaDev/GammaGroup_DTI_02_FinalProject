@@ -2,9 +2,9 @@
 
 Contributors:
 - Kevin Rio Harristyando
-- Sekar Saraswati Wibowo
 - Theresia Diah Kusumaningrum
-
+- Sekar Saraswati Wibowo
+- 
 ## Project Overview 
 
 In the hospitality industry, web reservations are the trend, offering convenience to travelers and expanded reach to hotels. All the same, with this shift has come a significant wave of booking cancellations that is proving difficult to hotel operations and revenue management. Studies have reported 19% of cancellations coming from a hotel's website, 39% from Booking.com, and 25% from Expedia in the course of a four-month period. (sources)
@@ -104,7 +104,10 @@ When predicting hotel booking cancellations, it is crucial to understand the imp
 | **stays_in_week_nights**            | Number of weekday nights (Monday-Friday) included in the booking.                                         |
 | **stays_in_weekend_nights**         | Number of weekend nights (Saturday/Sunday) included in the booking.                                       |
 | **total_of_special_requests**       | Total number of special requests made (e.g., extra bed, high floor).                                      |
-                                                                     
+
+### EDA
+
+![cancelled](https://github.com/user-attachments/assets/39242033-5cef-4260-b613-1864353cd8d0)
 
 ### Modelling
 
