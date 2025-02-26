@@ -9,7 +9,7 @@ Contributors:
 - [Hotel Booking Cancellation Prediction](#Project-Overview) 
 - [Tableau Dashboard](#Tableau-Dashboard)
 - [Streamlit Application](#Streamlit-Application)
-- [File Directory] (#File-Directory)
+- [File Directory](#File-Directory)
 
 ## Project Overview 
 
