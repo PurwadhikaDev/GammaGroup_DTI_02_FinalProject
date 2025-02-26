@@ -4,7 +4,7 @@ Contributors:
 - Kevin Rio Harristyando
 - Theresia Diah Kusumaningrum
 - Sekar Saraswati Wibowo
-- 
+  
 ## Project Overview 
 
 In the hospitality industry, web reservations are the trend, offering convenience to travelers and expanded reach to hotels. All the same, with this shift has come a significant wave of booking cancellations that is proving difficult to hotel operations and revenue management. Studies have reported 19% of cancellations coming from a hotel's website, 39% from Booking.com, and 25% from Expedia in the course of a four-month period. (sources)
