@@ -122,18 +122,13 @@ We compared the results of 6 different classification algorithms and applied 2 u
 - SMOTE
 
 ### Result
-
-
-
-### Recommendation
+The best model is Random Forest with Random Undersampling, obtaining F2 score of 77 and Recall of 88 after hyperparameter tuning.
 
 ## Tableau Dashboard
 Link : https://public.tableau.com/app/profile/gamma.team/viz/HotelBooking_17403871991650/HotelBooking
 <img width="564" alt="image" src="https://github.com/user-attachments/assets/2393f404-a0cc-4076-9037-4a9285b721c6" />
 <img width="568" alt="image" src="https://github.com/user-attachments/assets/bceab4f8-4aaa-4e40-acf2-1c0b04fea4ce" />
 <img width="562" alt="image" src="https://github.com/user-attachments/assets/0cefa87c-4260-449b-aa24-068e0c1367d0" />
-
-
 
 
 
