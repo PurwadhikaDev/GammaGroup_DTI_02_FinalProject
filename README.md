@@ -9,6 +9,7 @@ Contributors:
 - [Hotel Booking Cancellation Prediction](#Project-Overview) 
 - [Tableau Dashboard](#Tableau-Dashboard)
 - [Streamlit Application](#Streamlit-Application)
+- [File Directory] (#File-Directory)
 
 ## Project Overview 
 
@@ -140,7 +141,10 @@ We compared the results of 6 different classification algorithms and applied 2 u
 
 ## Tableau Dashboard
 Link : https://public.tableau.com/app/profile/gamma.team/viz/HotelBookingFinal_17405748492750/HotelBooking?publish=yes
+
 <img width="564" alt="image" src="https://github.com/user-attachments/assets/2393f404-a0cc-4076-9037-4a9285b721c6" />
+<img width="566" alt="image" src="https://github.com/user-attachments/assets/267a852b-8e88-4916-bad5-cfb957370bb2" />
+
 <img width="568" alt="image" src="https://github.com/user-attachments/assets/bceab4f8-4aaa-4e40-acf2-1c0b04fea4ce" />
 <img width="562" alt="image" src="https://github.com/user-attachments/assets/0cefa87c-4260-449b-aa24-068e0c1367d0" />
 
@@ -157,4 +161,8 @@ Link: https://gammateamdti.streamlit.app/
 
 ![Batch CSV Prediction](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Batch%20CSV%20Prediction.jpg)
 
-
+## File Directory
+- [Project notebook](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/Final_Project_Gamma_Team_Hotel_Booking_Demand_2_0.ipynb) : consisting code , explanation and visualization detail about this project
+- [Model file](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/model.pkl)
+- [Data after cleaning] (https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/hotel_booking_cleaned.csv)
+- [Streamlit Code](https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/blob/main/Homepage.py) and (https://github.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/tree/main/pages). To run streamlit from your computer you need to check file directory of the model. then run Homepage.py from terminal
