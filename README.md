@@ -138,3 +138,14 @@ Link : https://public.tableau.com/app/profile/gamma.team/viz/HotelBooking_174038
 
 
 ## Streamlit Application
+Link: https://gammateamdti.streamlit.app/
+![Homepage](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Homepage.jpg)
+![Data Visualization](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Data%20viz.png)
+
+![Single Prediction](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Single%20Prediction.jpg)
+
+![Manual Batch Prediction](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Manual%20Batch%20Prediction.jpg)
+
+![Batch CSV Prediction](https://raw.githubusercontent.com/PurwadhikaDev/GammaGroup_DTI_02_FinalProject/main/Streamlit%20Photos/Batch%20CSV%20Prediction.jpg)
+
+
