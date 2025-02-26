@@ -122,7 +122,13 @@ We compared the results of 6 different classification algorithms and applied 2 u
 - SMOTE
 
 ### Result
-The best model is Random Forest with Random Undersampling, obtaining F2 score of 77 and Recall of 88 after hyperparameter tuning.
+- The best performing model is Random Forest with the Random Undersampling method, resulting in F2 score of 79% and Recall score of 88%.
+- Based on the Feature Importance and SHAP result, the feature with the highest impact on cancellations is **Lead Time**. Guests with longer lead time are more prone to cancel their bookings.
+- With machine learning, we can achieve total cost reductions of up to 60% 
+
+    Total Cost **Before** ML    : $802,510
+
+    Total Cost **After** ML: $267,150
 
 ## Tableau Dashboard
 Link : https://public.tableau.com/app/profile/gamma.team/viz/HotelBookingFinal_17405748492750/HotelBooking?publish=yes
